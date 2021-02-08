@@ -1,0 +1,14 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    overflow: hidden;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+    font-size: 150px;
+}
+
+canvas {
+    display: block;
+}
